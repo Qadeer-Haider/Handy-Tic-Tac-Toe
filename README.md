@@ -153,4 +153,3 @@ Main function to run the game.
 - [MediaPipe Documentation](https://google.github.io/mediapipe/)
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Hand Gesture Recognition with MediaPipe](https://github.com/google/mediapipe)
--->
