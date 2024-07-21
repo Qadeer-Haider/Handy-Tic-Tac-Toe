@@ -1,5 +1,5 @@
 # Handy-Tic-Tac-Toe
-<!--
+<!-- --
 This project implements a Tic Tac Toe game where the user interacts with the game board using hand gestures captured by a webcam. The game uses MediaPipe for hand tracking and OpenCV for image processing. The game alternates turns between the player and a simple AI, which uses a basic strategy to determine its moves.
 
 ## Project Structure
