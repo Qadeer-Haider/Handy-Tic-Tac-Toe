@@ -65,10 +65,14 @@ This project implements a Tic Tac Toe game that can be played using hand gesture
 ## Gameplay Demonstration
 
 ### Loading Screen
+<img width="500" src="assets/Loading Screen.PNG" alt="loading"/>
+
 
 ### Game in Action
+<img width="500" src="assets/Action.PNG" alt="action"/>
 
 ### Endgame Summary
+<img width="500" src="assets/Result.PNG" alt="result"/>
 
 
 ## References
